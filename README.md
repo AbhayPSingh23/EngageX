@@ -25,6 +25,8 @@ The project incorporates Instagram and YouTube as its target social media platfo
 
 Colab Notebook : https://colab.research.google.com/drive/1CNxUPIVIgptIi8BS1be4DLdoT8qYDYLH?usp=sharing
 
+Zip file : https://drive.google.com/file/d/1H4RzNoZNO47hraFFdj0gmQxTY3XHpqh3/view?usp=sharing
+
 ### Primary Objective
 
 To develop an evidence-based social media analytics ecosystem capable of:
