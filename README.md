@@ -1,4 +1,4 @@
-# EngageIQ
+# EngageX
 Data-Driven Social Engagement Initiative
 
 # 📊 The Data-Driven Social Engagement Initiative
