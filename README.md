@@ -22,6 +22,7 @@ The project focuses on identifying the relationship between content characterist
 Instead of relying entirely on creative intuition, the system uses analytical techniques to investigate what makes digital content relatable, engaging, and shareable.
 
 The project incorporates Instagram and YouTube as its target social media platforms.
+
 Colab Notebook : https://colab.research.google.com/drive/1CNxUPIVIgptIi8BS1be4DLdoT8qYDYLH?usp=sharing
 
 ### Primary Objective
